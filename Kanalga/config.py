@@ -1,0 +1,2 @@
+TOKEN = '7429906412:AAHfxo2FO2COctHhLRD1e0nmglxxvwFiens'
+Kanal_id = -1002224212782
